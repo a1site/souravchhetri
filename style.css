@@ -788,11 +788,11 @@ a{
     }
   
     .menu-btn {
-      display: block;
+      
      
         
        
-display: inline-block    
+display: inline-block;    
         cursor:url("/custom_cursor/pointercursorresized4.png"), pointer;
     
     }
